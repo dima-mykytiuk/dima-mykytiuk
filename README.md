@@ -22,59 +22,51 @@
 ###
 <h2 align="left">⚙️ Tech Stack</h2>
 
-<div align="left">
+<p align="left">
 
-<!-- Backend -->
-<div style="display:inline-block; margin:10px 20px 10px 0;">
-  <strong>🧠 Backend</strong><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="36"/>
-</div>
+🧠 <strong>Backend</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="32"/>
 
-<!-- Databases -->
-<div style="display:inline-block; margin:10px 20px 10px 0;">
-  <strong>🗄 Databases</strong><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36"/>
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- AI -->
-<div style="display:inline-block; margin:10px 20px 10px 0;">
-  <strong>🤖 AI</strong><br><br>
-  <img src="https://cdn.simpleicons.org/langchain" height="36" />
-  <img src="https://cdn.simpleicons.org/openai" height="36" />
-  <img src="https://cdn.simpleicons.org/claude" height="36" />
-</div>
+🗄 <strong>Databases</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/>
 
-<!-- DevOps -->
-<div style="display:inline-block; margin:10px 20px 10px 0;">
-  <strong>☁ DevOps</strong><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- Frontend -->
-<div style="display:inline-block; margin:10px 20px 10px 0;">
-  <strong>🌐 Frontend</strong><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36"/>
-</div>
+🤖 <strong>AI</strong>
+<img src="https://cdn.simpleicons.org/langchain" height="32"/>
+<img src="https://cdn.simpleicons.org/openai" height="32"/>
+<img src="https://cdn.simpleicons.org/claude" height="32"/>
 
-<!-- Event -->
-<div style="display:inline-block; margin:10px 20px 10px 0;">
-  <strong>⚡ Event</strong><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36"/>
-  <img src="https://cdn.simpleicons.org/rabbitmq" height="36" />
-</div>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-</div>
+☁ <strong>DevOps</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+🌐 <strong>Frontend</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+⚡ <strong>Event</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="32"/>
+<img src="https://cdn.simpleicons.org/rabbitmq" height="32"/>
+
+</p>
 
 ###
 ---
