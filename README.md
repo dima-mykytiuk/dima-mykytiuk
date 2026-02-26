@@ -92,7 +92,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://dima-mykytiuk.github.io/CV/" target="_blank" text-decoration=none>
-    <img src="https://cdn.simpleicons.org/readdotcv/ffffff"  height="36" width="46" />
+    <img src="https://cdn.simpleicons.org/readdotcv/blue"  height="36" width="46" />
   </a>
 </div>
 
