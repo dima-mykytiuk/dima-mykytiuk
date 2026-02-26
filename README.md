@@ -15,7 +15,11 @@
 <p align="left">🤖 Exploring AI & Intelligent Systems<br><br>- Integrating LLMs into backend services<br>- Building AI-assisted internal tools<br>- Vector databases & semantic search<br>- Automation pipelines powered by AI</p>
 
 ###
-
+###
+💬 Open to backend, distributed systems, and AI engineering roles
+###
+📫 Reach out via LinkedIn or email
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -75,6 +79,6 @@
 
 ###
 
-<img src="https://streak-stats.demolab.com/?user=dima-mykytiuk&theme=tokyonight" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=dima-mykytiuk&theme=tokyonight" height="100%" width="100%"/>
 
 ###
