@@ -96,7 +96,7 @@
 </td>
 <td>
 <a href="https://dima-mykytiuk.github.io/CV/" target="_blank">
-  <img src="https://cdn.simpleicons.org/readdotcv/blue" height="36" width="46"/>
+  <img src="./cv-icon.svg" height="40"/>
 </a>
 </td>
 </tr>
