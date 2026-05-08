@@ -41,7 +41,7 @@
 
 ### 🤖 AI
 <img src="https://cdn.simpleicons.org/langchain" height="36"/>
-<img src="https://cdn.simpleicons.org/openai" height="36"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="36"/>
 <img src="https://cdn.simpleicons.org/claude" height="36"/>
 
 </td>
