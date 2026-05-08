@@ -82,19 +82,25 @@
 ###
 📬 Open to backend, distributed systems, and AI engineering roles — Let’s Connect
 ###
-<div align="left">
-  <a href="https://www.linkedin.com/in/dmytro-mykytiuk-9ab167253/" target="_blank" text-decoration=none>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="40" alt="linkedin logo"  />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:dima.mykytiuk1998@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://dima-mykytiuk.github.io/CV/" target="_blank" text-decoration=none>
-    <img src="https://cdn.simpleicons.org/readdotcv/blue"  height="36" width="46" />
-  </a>
-</div>
+<table>
+<tr>
+<td>
+<a href="https://www.linkedin.com/in/dmytro-mykytiuk-9ab167253/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="40" alt="linkedin"/>
+</a>
+</td>
+<td>
+<a href="mailto:dima.mykytiuk1998@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36"/>
+</a>
+</td>
+<td>
+<a href="https://dima-mykytiuk.github.io/CV/" target="_blank">
+  <img src="https://cdn.simpleicons.org/readdotcv/blue" height="36" width="46"/>
+</a>
+</td>
+</tr>
+</table>
 
 ###
 
